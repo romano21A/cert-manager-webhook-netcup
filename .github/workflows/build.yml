@@ -6,7 +6,7 @@ on:
 env:
   REGISTRY: ghcr.io
   USERNAME: ${{ github.actor }}
-  IMAGE_NAME: aellwein/cert-manager-webhook-netcup
+  IMAGE_NAME: romano21A/cert-manager-webhook-netcup
   # set version here for upcoming release
   IMAGE_TAG: 1.0.28
   IMAGE_TAG_DEVELOP: develop
